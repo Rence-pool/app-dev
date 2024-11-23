@@ -4,28 +4,34 @@
 
 *Movies*
 1. [The Medium](https://www.imdb.com/title/tt13446168/?ref_=fn_al_tt_2)
-2. [Smile (Franchise)](https://www.imdb.com/title/tt15474916/?ref_=fn_al_tt_2)
-  - Laura Hasn't Slept
-  - Smile
-  - Smile 2
+2. Smile (Franchise)
+  - [Laura Hasn't Slept](https://www.imdb.com/title/tt11650610/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_laura%2520has)
+  - [Smile](https://www.imdb.com/title/tt15474916/?ref_=fn_al_tt_2)
+  - [Smile 2](https://www.imdb.com/title/tt29268110/?ref_=fn_al_tt_1)
 3. [The Watchers](https://www.imdb.com/title/tt26736843/?ref_=fn_al_tt_1)
 4. [Interstellar](https://www.imdb.com/title/tt0816692/?ref_=fn_al_tt_1)
-5. [The Final Destination (Franhise)](https://www.imdb.com/title/tt0195714/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Final%2520des)
-  - Final Destinations 1-5
-6. [Insidious (Franchise) ](https://www.imdb.com/title/tt1591095/)
-  - Insidious
-  - Insidious: Chapter 2
-  - Insidious: Chapter 3
-  - Insidious: The Last Key
-  - Insidious: The Red Door
+5. The Final Destination (Franhise)
+  - [Final Destination](https://www.imdb.com/title/tt0195714/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Final%2520des)
+  - [Final Destination 2](https://www.imdb.com/title/tt0309593/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_final%2520des)
+  - [Final Destination 3](https://www.imdb.com/title/tt0414982/?ref_=nv_sr_srsg_5_tt_8_nm_0_in_0_q_final%2520de)
+  - [The Final Destination](https://www.imdb.com/title/tt1144884/?ref_=nv_sr_srsg_7_tt_8_nm_0_in_0_q_final%2520de)
+  - [Final Destination 5](https://www.imdb.com/title/tt1622979/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_final%2520de)
+6. Insidious (Franchise)
+  - [Insidious](https://www.imdb.com/title/tt1591095/)
+  - [Insidious: Chapter 2](https://www.imdb.com/title/tt2226417/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_insidio)
+  - [Insidious: Chapter 3](https://www.imdb.com/title/tt3195644/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_chapter%25203)
+  - [Insidious: The Last Key](https://www.imdb.com/title/tt5726086/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520last%2520key)
+  - [Insidious: The Red Door](https://www.imdb.com/title/tt13405778/?ref_=fn_al_tt_1)
 7. [Megan is missing](https://www.imdb.com/title/tt1087461/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_megan%2520is%2520)
 8. [The Innocents](https://www.imdb.com/title/tt4028464/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_the%2520innoc)
 9. [Eternals](https://www.imdb.com/title/tt9032400/?ref_=fn_al_tt_1)
-10. [GOTG (Franchise)](https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_guardia)
-  - Guardians of the Galaxy
-  - Guardians of the Galaxy: Volume 2
-  - Guardians of the Galaxy: Volume 3
+10. GOTG (Franchise)
+  - [Guardians of the Galaxy](https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_guardia)
+  - [Guardians of the Galaxy: Volume 2](https://www.imdb.com/title/tt3896198/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_volume%25202)
+  - [Guardians of the Galaxy: Volume 3](https://www.imdb.com/title/tt6791350/?ref_=fn_al_tt_1)
 11. [Drag me to Hell](https://www.imdb.com/title/tt1127180/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_drag%2520m)
+12. [Captain America: Civil War](https://www.imdb.com/title/tt3498820/?ref_=nv_sr_srsg_10_tt_8_nm_0_in_0_q_captain)
+13. [Avengers: Infinity War](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_7_tt_8_nm_0_in_0_q_avengers)
 
 *Seies*
 1. [The Walking Dead](https://www.imdb.com/title/tt1520211/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_walki)
